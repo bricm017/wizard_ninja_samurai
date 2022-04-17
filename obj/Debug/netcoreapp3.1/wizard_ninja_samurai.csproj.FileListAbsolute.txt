@@ -1,0 +1,13 @@
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\obj\Debug\netcoreapp3.1\wizard_ninja_samurai.csprojAssemblyReference.cache
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\obj\Debug\netcoreapp3.1\wizard_ninja_samurai.AssemblyInfoInputs.cache
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\obj\Debug\netcoreapp3.1\wizard_ninja_samurai.AssemblyInfo.cs
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\obj\Debug\netcoreapp3.1\wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\bin\Debug\netcoreapp3.1\wizard_ninja_samurai.exe
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\bin\Debug\netcoreapp3.1\wizard_ninja_samurai.deps.json
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\bin\Debug\netcoreapp3.1\wizard_ninja_samurai.runtimeconfig.json
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\bin\Debug\netcoreapp3.1\wizard_ninja_samurai.runtimeconfig.dev.json
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\bin\Debug\netcoreapp3.1\wizard_ninja_samurai.dll
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\bin\Debug\netcoreapp3.1\wizard_ninja_samurai.pdb
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\obj\Debug\netcoreapp3.1\wizard_ninja_samurai.dll
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\obj\Debug\netcoreapp3.1\wizard_ninja_samurai.pdb
+C:\Users\madis\Documents\coding_dojo\C#\wizard_ninja_samurai\obj\Debug\netcoreapp3.1\wizard_ninja_samurai.genruntimeconfig.cache
